@@ -1,0 +1,24 @@
+# Maxima
+
+> Maxima is an AI-native accounting and financial-close automation platform for enterprise finance teams. Its AI agents automate journal entries, cash coding, payroll entries, bank and balance-sheet reconciliations, flux (variance) analysis, and fixed-asset depreciation, connecting natively to the ERPs, banks, and payroll systems finance teams already use (150+ integrations advertised). Backed by Kleiner Perkins. As of this profile, Maxima publishes no public developer API or documentation; the product is delivered as a gated web application.
+
+## Company
+- [Maxima website](https://maxima.ai): Product marketing site
+- [About](https://maxima.ai/about): Company overview
+- [Newsroom](https://maxima.ai/newsroom): Company news
+- [Careers](https://maxima.ai/careers): Open roles
+- [Blog](https://maxima.ai/blog): Articles on the accounting close and finance automation
+- [Integrations](https://maxima.ai/integrations): Native connections to finance systems
+
+## Product
+- [Platform overview](https://maxima.ai/platform-overview): How the platform works
+- [Max](https://maxima.ai/max): AI agent for the accounting close
+- [Application login](https://app.maximahq.com/): Gated customer web application (no public API)
+
+## Security & Legal
+- [Security](https://maxima.ai/security): Compliance posture — SOC 1 Type 2, SOC 2 Type 2, ISO 42001 (certified); ISO 27001 (coming soon)
+- [Privacy Policy](https://maxima.ai/legal/privacy-policy)
+- [Terms of Service](https://maxima.ai/legal/terms-of-service)
+
+## Notes
+- No public developer API, OpenAPI, developer portal, or /.well-known/ discovery surface was found during this enrichment pass.

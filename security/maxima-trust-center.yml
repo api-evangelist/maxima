@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: searched
+source: https://maxima.ai/security
+url: https://maxima.ai/security
+certifications:
+- SOC 1 Type 2
+- SOC 2 Type 2
+- ISO 42001
+certifications_in_progress:
+- ISO 27001 (coming soon)
+notes: >-
+  Maxima publishes a marketing security page naming its compliance attestations.
+  SOC 1 Type 2 and SOC 2 Type 2 reports are described as available under NDA.
+  ISO 42001 (AI management system) is listed as certified; ISO 27001 is listed as
+  "coming soon". A security contact email is published on the page.
+security_contact: security@maxima.com
+evidence:
+- source: https://maxima.ai/security
+  keywords: [soc 1 type 2, soc 2 type 2, iso 42001, iso 27001, security]
